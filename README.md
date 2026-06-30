@@ -1,6 +1,6 @@
 # AI Crop Advisory System | Bhartiya Antariksh Hackathon 2024
 
-**Team 100XX** - Thapar Institute of Engineering and Technology
+**Team XOrbit** - Thapar Institute of Engineering and Technology
 
 An **AI-powered solution** for automated crop type mapping, phenology-aware moisture stress detection, and intelligent irrigation advisories using fused Optical and Microwave satellite remote sensing data.
 
